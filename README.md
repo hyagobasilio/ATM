@@ -12,8 +12,8 @@ O resto dos dados de entrada referem-se aos robôs viajantes que já estão prep
 A posição consiste de dois números inteiros e de uma letra, separados por espaços em branco, correspondendo às coordenadas X e Y e a orientação robô.
 Cada robô explorador finalizará a tarefa de forma sequencial, ou seja, o segundo robô só irá se mover após o primeiro já ter completado sua tarefa.
 
-	##SAÍDA ESPERADA</h2>
-	<p>A saída para cada robô deve ser sua coordenada final e a orientação para onde está apontado.</p>
+	##SAÍDA ESPERADA
+	A saída para cada robô deve ser sua coordenada final e a orientação para onde está apontado.
 
 ##ENTRADA E SAÍDA
 ###Teste de entrada:
@@ -23,6 +23,6 @@ Cada robô explorador finalizará a tarefa de forma sequencial, ou seja, o segun
 	LMLMLMLMM
 	3 3 E 
 	MMRMMRMRRM
-	Expected Output: <br>
-	1 3 N <br>
-	5 1 E </p>
+	Expected Output:
+	1 3 N
+	5 1 E
